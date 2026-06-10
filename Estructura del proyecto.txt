@@ -1,0 +1,4 @@
+1. Planteamiento del problema
+2. Objetivos
+3. Análisis de requerimientos
+4. 
